@@ -4,7 +4,7 @@ Font Awesome
 Shim repository for Font Awesome.
 
 The full suite of pictographic icons, examples, and documentation can be found at:
-http://fortawesome.github.com/Font-Awesome/
+https://github.com/FortAwesome/Font-Awesome
 
 License
 -------
